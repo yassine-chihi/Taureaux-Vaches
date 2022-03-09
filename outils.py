@@ -1,4 +1,3 @@
-# ©CopyRight : Walid Oualili & Yassine Chihi
 import random
 
 def IntToList(n):
