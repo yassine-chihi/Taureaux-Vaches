@@ -1,4 +1,3 @@
-# ©CopyRight : Walid Oualili & Yassine Chihi
 from tkinter import *
 from tkinter.font import BOLD
 from outils import CodeSecret as CS, TaureauxVaches as TV
